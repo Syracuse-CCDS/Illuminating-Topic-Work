@@ -1,5 +1,7 @@
 # Topic-Work
 The scripts of  topic work, including the train and testing dataset, scripts of lexicon developing and tagging. 
+The vailidataion data is in the file namede "The Dataset", the results of lexicon version and its coding results 
+are in the file named "Lexicon version and results" The lexicon tagging and development includes following:
 
 ## The tagging script 
 This script is for tagging the data set with the developed lexiocn and the pre-trained language model.
