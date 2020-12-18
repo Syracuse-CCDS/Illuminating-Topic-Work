@@ -1,0 +1,1969 @@
+Gold Label,words,m_label,covid,economic,education,environmental,foreign policy,governance,health,immigration,military,safety,social cultural,social programs
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","student,college,debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+social programs,social security,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+social programs,social security,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,fed",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","middle class,healthcare","economic,health",0,correct label,0,0,0,0,correct label,0,0,0,0,0
+"environmental,governance,health,social programs,economic","health insurance,wealth tax,economic,tax,health,incomes,wealth","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+"education,social cultural,social programs","black,loans,debt,default,student debt,borrowers,student,student debt crisis","education,social cultural,social programs",0,0,correct label,0,0,0,0,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,economic","criminal justice,debt,middle income,criminal justice system,economy,criminal","economic,safety,social programs",0,correct label,0,0,0,0,0,0,0,correct label,0,debt
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,gun,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+safety,guns,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,school,education,0,0,school,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs","guarantee health care,health care,prescription,prescription drug,health,guarantee health,economy,wages","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,economic,economic,0,economic,0,0,0,0,0,0,0,0,0,0
+"governance,health,economic","fossil fuel,fuel,campaign finance,prison,fossil","environmental,governance,safety",0,0,0,"fossil,fossil fuel,fuel",0,correct label,0,0,0,prison,0,0
+social cultural,color,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"environmental,foreign policy","climate crisis,climate change,climate,foreign","environmental,foreign policy",0,0,0,correct label,correct label,0,0,0,0,0,0,0
+environmental,"emissions,climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+immigration,"immigrants,immigration policy,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+economic,"economy,tax,tax plan",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,health,social programs,economic","health care,care costs,economic,health,health care costs","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+economic,"economy,businessman",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+safety,"criminal,criminal justice,criminal justice system,incarcerated",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,supreme court,governance,0,0,0,0,0,supreme court,0,0,0,0,0,0
+"environmental,social cultural","racism,carbon","environmental,social cultural",0,0,0,correct label,0,0,0,0,0,0,correct label,0
+"economic,education,social programs","tutor,graduation,school,student,economy","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+"education,health,social programs","pre school,education,school,universal access,early education",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+"education,health,social programs","health crisis,health,school","education,health",0,0,correct label,0,0,0,correct label,0,0,0,0,0
+"education,social programs,economic","education,education plan,school,teachers,universal access","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"education,social programs","loans,education system,education,teachers,student","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"education,social programs","education,education plan","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+environmental,"climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,social cultural","climate change,climate,racial,economic","economic,environmental,social cultural",0,correct label,0,correct label,0,0,0,0,0,0,correct label,0
+"education,social cultural,social programs","graduate,hbcus","education,social cultural,social programs",0,0,correct label,0,0,0,0,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","black,african american,color,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,immigration,social programs,environmental","education,immigrants,climate,climate crisis","education,environmental,immigration",0,0,correct label,correct label,0,0,0,correct label,0,0,0,0
+"social cultural,safety","criminal justice,bail,police,incarcerated,criminal justice system,officers,police officers,racism,cash bail,criminal,institutional racism,racial","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"african american,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"economic,social cultural","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,middle class,economic,0,middle class,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural","black,systemic racism,systemic,racism,black america",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+safety,"criminal,criminal justice,criminal justice system",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,social cultural","discriminatory policies,health","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,wages",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,foreign policy","cold war,new cold war",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social programs","income gap,universal basic,universal basic income,basic income,productivity,middle class",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,foreign policy,military,social programs","income gap,universal basic,military adventurism,universal basic income,basic income,productivity,middle class,cold war,new cold war","economic,foreign policy",0,correct label,0,0,correct label,0,0,0,0,0,0,0
+social programs,"universal basic income,universal basic,basic income",no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","affordable health care,drug prices,premiums,health care,care costs,prescription,copays,prescription drug,health,affordable health,latino,health care costs,deductibles","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+"health,social programs,social cultural","affordable health care,health care,health,affordable health,latino","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+"health,social cultural,social programs","health care,health,latinos","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+"health,social cultural","health care,assault,health","health,safety,social programs",0,0,0,0,0,0,correct label,0,0,assault,0,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","affordable health care,medicare,health care,medicare for all,health,affordable health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,social cultural,environmental",climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,health,social programs,environmental",public schools,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"black,systemic,racism,systemic racism",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,black,social cultural,0,0,0,0,0,0,0,0,0,0,black,0
+economic,workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"environmental,immigration,economic","fossil fuel,fuel,climate crisis,immigrants,climate,fossil","environmental,immigration",0,0,0,correct label,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"the nra,gun,nra,assault",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","disabilities,health care,care costs,health,health care costs","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health coverage,medicare,health crisis,health care,public option,affordable care act,health,affordable care,obamacare,health reform","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,federal lobbyists,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"health,social cultural,economic","racist,economy,health","economic,health,social cultural",0,correct label,0,0,0,0,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,safety,social cultural,environmental","bail,climate,color,cash bail","environmental,safety,social cultural",0,0,0,correct label,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","education,low income students,school","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"environmental,economic","green new deal,workers,million jobs,new deal,green new,jobs","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,safety","criminal justice,criminal,education,incarceration,jails,jobs,justice reform,prison","economic,education,safety",0,correct label,correct label,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,health,immigration,safety,social cultural,social programs","economy,health care,health","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,jobs,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","pro choice,reproductive rights","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","abortion access,reproductive rights,abortion","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural","black,drugs,color,people of color","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","drugs,black,marijuana","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,black,social cultural,0,0,0,0,0,0,0,0,0,0,black,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,banks,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+governance,"kavanaugh,supreme court",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"social cultural,governance",blasey ford,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+social cultural,black,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"economic,social cultural","color,people of color",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social cultural","reproductive justice,racial,economic","economic,health,social cultural",0,correct label,0,0,0,0,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,safety","physical wellbeing,suicides,overdoses",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+environmental,"climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,governance","kavanaugh,wade,right to choose,supreme court,roe,supreme court justice,roe v wade","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+governance,"right to vote,voter suppression",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+governance,"gerrymandered,unconstitutional gerrymandering,fair districts,gerrymandered districts,ballot box,gerrymandering",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","expand medicaid,affordable health care,health care,medicaid expansion,health,affordable health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,big pharma,health,0,0,0,0,0,0,big pharma,0,0,0,0,0
+governance,right to vote,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,workers,economic,0,workers,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military","ptsd,every veteran,addiction","health,military,safety",0,0,0,0,0,0,correct label,0,correct label,addiction,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,military","troops,fed","economic,military",0,correct label,0,0,0,0,0,0,correct label,0,0,0
+"health,safety","addiction,big pharma","health,safety",0,0,0,0,0,0,correct label,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+education,"teachers,school,school service personnel",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,safety,social cultural","health,wealth","economic,health",0,wealth,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"african americans,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"environmental,immigration,safety,economic","living wage,nra,education,workers,green building,gun violence,shutdown,the nra,immigrated,federal workers,college,immigrants,jobs,gun,climate,paying jobs,paris agreement","economic,education,environmental,governance,immigration,safety",0,correct label,education,correct label,0,"shutdown,federal workers",0,correct label,0,correct label,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,education,education,0,0,education,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","student loan,debt,student,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,health,military,social programs,foreign policy","debt,healthcare,student debt,student,senseless","education,foreign policy,health,social programs",0,0,correct label,0,correct label,0,correct label,0,0,0,0,correct label
+"health,military","base,service members,troops",military,0,0,0,0,0,0,0,0,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,economic","insulin,dividends,stock,big pharma,shareholders","economic,health",0,correct label,0,0,0,0,correct label,0,0,0,0,0
+safety,"gun,background check,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"health,economic","food deserts,healthy eating",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+"health,military","ptsd,wounded veterans,social emotional learning","health,military",0,0,0,0,0,0,correct label,0,correct label,0,0,0
+"education,social cultural,social programs","broken system,color","social cultural,social programs",0,0,0,0,0,0,0,0,0,0,correct label,correct label
+"education,health,social programs","trauma based care,health,school","education,health",0,0,correct label,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military",health,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,american worker,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,immigration,social cultural,social programs","wealth tax,public education,education system,education,color,school,immigrant students,supports teachers,teachers,discrimination,tax,english language learners,school climate,school infrastructure,climate,wealth,public schools","economic,education,environmental,social cultural,social programs",0,correct label,correct label,climate,0,0,0,0,0,0,correct label,correct label
+"economic,social cultural","wages,systemic,discrimination,economy,mothers,color","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+governance,"impeachment,mueller report",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","free college,affordable child,k 12 education,tuition,college tuition,education,school,student,college,universal child care,child care,free college tuition","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,"workers,wages,stagnated,middle class",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"education,health","loans,student,health,health insurance","education,health,social programs",0,0,correct label,0,0,0,correct label,0,0,0,0,"student,health insurance"
+no topic,"public schools,college,school",education,0,0,"school,public schools",0,0,0,0,0,0,0,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,self funding billionaire,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,middle class,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"education,governance,social cultural,social programs","debt financed education,debt,student loan,education,student debt,borrowers,racial,million americans,college,loan debt,middle class,student loan debt,student debt crisis,loans,tuition,higher education,student loan borrowers,cancel student loan debt,tuition free,college education,colleges,student","economic,education,social cultural,social programs",0,middle class,correct label,0,0,0,0,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"middle class,debt,school","economic,education,social programs",0,middle class,school,0,0,0,0,0,0,0,0,debt
+economic,taxes,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education","ceos,loans,debt","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,debt
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,child care,social programs,0,0,0,0,0,0,0,0,0,0,0,child care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social cultural,social programs,economic","k 12 education,student loan,debt,hbcus,education,minority serving institutions,million americans,school,student,tax,college,loan debt,middle class,student loan debt,universal child care,child care","economic,education,social cultural,social programs",0,correct label,correct label,0,0,0,0,0,0,0,correct label,correct label
+economic,"economy,stock,health","economic,health",0,"stock,economy",0,0,0,0,health,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,governance,social programs","education,public schools,school,secretary of education","education,governance",0,0,correct label,0,0,correct label,0,0,0,0,0,0
+"education,governance,social programs","k 12 education,student loan,debt,secretary of education,education,universal pre k,school,million americans,pre k,student,college,loan debt,student loan debt","education,governance,social programs",0,0,correct label,0,0,correct label,0,0,0,0,0,correct label
+"health,social programs","workers,medicare,health care,medicare for all,health,economy","economic,health,social programs",0,"workers,economy",0,0,0,0,correct label,0,0,0,0,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"debt,banking","economic,social programs",0,banking,0,0,0,0,0,0,0,0,0,debt
+"education,social cultural,social programs,economic","student loan,debt,banking,student,economy,loan debt,middle class,student loan debt,racial","economic,education,social cultural,social programs",0,correct label,correct label,0,0,0,0,0,0,0,correct label,correct label
+social cultural,"student,disabilities,economic","economic,education,social cultural,social programs",0,economic,student,0,0,0,0,0,0,0,disabilities,student
+"education,social programs","student loan,debt,million americans,cancel student loan debt,student,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,economy,economic,0,economy,0,0,0,0,0,0,0,0,0,0
+"social programs,economic","public option,grant program",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,millionaires,economic,0,millionaires,0,0,0,0,0,0,0,0,0,0
+"environmental,economic","fossil fuels,climate change,racial,fossil fuel,transportation,fuel,middle class,economic,emissions,climate crisis,fight climate,economy,jobs,climate,green jobs,fossil","economic,environmental,social cultural",0,correct label,0,correct label,0,0,0,0,0,0,racial,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,safety","gun dealers,nra,sensible gun,guns,comprehensive gun,gun control,filibuster,gun,the gun,gun violence","governance,safety",0,0,0,0,0,correct label,0,0,0,correct label,0,0
+"social cultural,safety","guns,hate crimes,domestic violence,prosecute,gun,loophole,gun violence","governance,safety",0,0,0,0,0,prosecute,0,0,0,correct label,0,0
+"economic,health,environmental","fossil fuel,drilling,fuel,climate crisis,offshore,health,natural resources,climate,fossil","economic,environmental,health",0,correct label,0,correct label,0,0,correct label,0,0,0,0,0
+governance,"supreme court justice,kavanaugh,supreme court",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"environmental,economic","renewable energy,green new deal,renewable,drilling,new deal,offshore,economy,green new,climate","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"environmental,health,economic","fossil fuel,arctic,drilling,fuel,workers,climate crisis,offshore,wind,health,economy,pensions,natural resources,climate,carbon,fossil","economic,environmental,health",0,correct label,0,correct label,0,0,correct label,0,0,0,0,0
+"health,social cultural","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,health care
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"gun,assault",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,incarceration,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"economic,social cultural,safety","black,violent crime","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+safety,disabilities,social cultural,0,0,0,0,0,0,0,0,0,0,disabilities,0
+"education,social cultural,safety","criminal justice,prison population,education,police,incarcerated,incarceration,criminal justice system,criminal,prison,public safety","education,safety",0,0,correct label,0,0,0,0,0,0,correct label,0,0
+"social cultural,safety","death penalty,capital punishment,color,people of color","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"social cultural,safety","black,police,people of color,officers,police officers,public safety,color","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+economic,"economy,college,economic",economic,0,correct label,0,0,0,0,0,0,0,0,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"ceos,economic",economic,0,"economic,ceos",0,0,0,0,0,0,0,0,0,0
+"education,social cultural,social programs,economic","student loan,debt,hbcus,student,tax,economy,loan debt,student loan debt,universal child care,child care,wealth","economic,education,social cultural,social programs",0,correct label,correct label,0,0,0,0,0,0,0,correct label,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,economic","supreme court,enriching corporations",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"economic,immigration,social cultural","economic,immigration","economic,immigration",0,correct label,0,0,0,0,0,correct label,0,0,0,0
+"education,health,social programs","universal health,health care,universal pre k,pre k,health,universal health care","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","black,economy,color,wages","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+"social cultural,economic","black,subprime mortgages,subsidies,discrimination,wealth,mortgages","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+"economic,environmental","fossil fuel,fossil fuels,fuel,climate crisis,banks,economy,climate,fossil","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"health,social cultural,environmental","racism,criminal,discrimination,polluters","environmental,safety,social cultural",0,0,0,correct label,0,0,0,0,0,criminal,correct label,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,taxes,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs","middle class,medicare,medicare for all,taxes","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"campaign finance,campaign finance reform",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,new deal","economic,environmental",0,workers,0,new deal,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","student loan,debt,education,student debt,graduation,school,million americans,college,loan debt,student loan debt,student debt crisis,free tuition,loans,tuition,higher education,college education,k 12 education,per student,colleges,student,public college","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"education,social programs","loans,student loan,debt,student debt,student,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,"wealth tax,tax,wealth",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,taxes,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs,economic","free college,wealth tax,universal pre k,pre k,tax,college,wealth","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+"education,social cultural,social programs,economic","hbcus,student loan,debt,pre k,cancel student loan debt,student,loan debt,student loan debt,universal child care,child care,public schools","education,social cultural,social programs",0,0,correct label,0,0,0,0,0,0,0,correct label,correct label
+"education,social programs,economic","free college,black,student loan,debt,tuition,pre kindergarten,cancel student loan debt,colleges,student,tax,college,tuition free,loan debt,student loan debt,universal child care,child care","economic,education,social cultural,social programs",0,correct label,correct label,0,0,0,0,0,0,0,black,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","loans,black,african americans,african,discrimination","education,social cultural",0,0,loans,0,0,0,0,0,0,0,correct label,0
+"social cultural,safety","extremist,guns,hate crimes,police,officers,immigration,gun,gun violence","immigration,safety,social cultural",0,0,0,0,0,0,0,immigration,0,correct label,correct label,0
+economic,"discrimination,economy","economic,social cultural",0,economy,0,0,0,0,0,0,0,0,discrimination,0
+economic,discrimination,social cultural,0,0,0,0,0,0,0,0,0,0,discrimination,0
+no topic,stock,economic,0,stock,0,0,0,0,0,0,0,0,0,0
+environmental,"green new,new deal,green new deal",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs","improve health,medicare,enroll,health care,care costs,drugs,insulin,medicare for all,health,big pharma,health care costs","health,safety,social programs",0,0,0,0,0,0,correct label,0,0,drugs,0,correct label
+military,"service members,troops",military,0,0,0,0,0,0,0,0,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs","middle class,medicare,medicare for all,taxes","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+"economic,health,social programs","care plan,medicare,health care,care costs,taxes,medicare for all,health,tax,middle class,health care costs","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+"governance,foreign policy","constitutional duty,impeachment,mueller report,impeach the president,foreign,us elections,impeach","foreign policy,governance",0,0,0,0,correct label,correct label,0,0,0,0,0,0
+"economic,environmental","clean renewable,climate change,green new deal,manufacturing,renewable,new deal,climate crisis,emissions,economic,green new,jobs,climate,floods","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"health,social cultural","black,abortion,reproductive care,health care,systemic,economic,reproductive health,health","economic,health,social cultural,social programs",0,economic,0,0,0,0,correct label,0,0,0,correct label,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,environmental,social programs","student loan,debt,climate change,climate,student,loan debt,student loan debt,universal child care,child care","education,environmental,social programs",0,0,correct label,correct label,0,0,0,0,0,0,0,correct label
+"economic,education,social cultural,social programs","k 12 education,public education,education system,secretary of education,education,school,teachers,public schools,discrimination,tax,school climate,climate,color","economic,education,environmental,governance,social cultural,social programs",0,correct label,correct label,climate,0,secretary of education,0,0,0,0,correct label,correct label
+"economic,education,social programs","public education,education,special education,school,millionaires,tax,school infrastructure,public schools","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+"education,governance,immigration,social programs,social cultural","federal education,public education,disabilities,education,immigrant students,lgbtq students,constitution,discrimination,english language learners,strengthening title vi,civil rights act,public schools","education,governance,social cultural,social programs",0,0,correct label,0,0,correct label,0,0,0,0,correct label,correct label
+"education,social programs","student,public schools,charter schools","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"economic,education,governance,social programs","k 12 education,public education,secretary of education,education,school,teachers","education,governance",0,0,correct label,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,immigration","citizenship question,racist,citizenship,census,immigrants,2020 census","governance,immigration,social cultural",0,0,0,0,0,correct label,0,correct label,0,0,racist,0
+"economic,safety,social cultural,immigration","immigration law,deportation,hate crimes,migration,immigration,detention,criminal,public safety","immigration,safety",0,0,0,0,0,0,0,correct label,0,correct label,0,0
+"safety,social cultural,immigration","refugees,cages,refugee,sexual orientation,racism,asylum seekers,asylum,climate","environmental,immigration,social cultural",0,0,0,climate,0,0,0,correct label,0,0,correct label,0
+safety,gun,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"health,social cultural","wade,abortion,roe,abortions,roe v wade","governance,health,social cultural",0,0,0,0,0,roe,correct label,0,0,0,correct label,0
+governance,"legalized bribery,banning lobbyists",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+governance,citizens united,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+governance,tax,economic,0,tax,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,gay,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+social cultural,religious freedom,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+social cultural,transgender,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"health,safety,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,governance,health,social programs,social cultural","sex,same sex,education,health care,sexual orientation,student,discrimination,health,filibuster,transgender","education,governance,health,social cultural,social programs",0,0,correct label,0,0,correct label,correct label,0,0,0,correct label,correct label
+"education,health,safety,social programs,social cultural","gay,school,sexual orientation,lgbtq students,discrimination,lesbian,suicide,welfare,adoption agencies,transgender","education,health,safety,social cultural,social programs",0,0,correct label,0,0,0,correct label,0,0,correct label,correct label,correct label
+"social cultural,governance","kavanaugh,workers,sexual orientation,discrimination,supreme court,justices","economic,governance,social cultural",0,workers,0,0,0,correct label,0,0,0,0,correct label,0
+"health,safety,social programs,social cultural","aids,health crisis,health,color,hiv","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+"economic,environmental","renewable energy,climate change,renewable,manufacturing,workers,middle class,climate crisis,economy,jobs,climate","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"economic,environmental","climate change,green new deal,new deal,subsidies,climate crisis,tax,green new,climate","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"health,social programs","medicare,health care,health,medicare for all","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"economic,education,health,social cultural,environmental","climate change,affordable housing,green new deal,workers,health care,new deal,discrimination,health,green new,racism,economy,jobs,climate","economic,environmental,health,social cultural,social programs",0,correct label,0,correct label,0,0,correct label,0,0,0,correct label,"affordable housing,health care"
+"governance,economic",stocks,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"safety,governance","kavanaugh,assault,supreme court,federal judges,court justices,loophole,justices","governance,safety",0,0,0,0,0,correct label,0,0,0,correct label,0,0
+"education,social cultural,social programs,economic","hbcus,debt,tuition,student debt,school,public college,student,millionaires,tax,college,tuition free,universal child care,child care","economic,education,social cultural,social programs",0,correct label,correct label,0,0,0,0,0,0,0,correct label,correct label
+"health,social programs,economic","middle class,medicare,medicare for all","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"ceos,supreme court","economic,governance",0,ceos,0,0,0,supreme court,0,0,0,0,0,0
+"governance,foreign policy","campaign finance,foreign,campaign finance law","foreign policy,governance",0,0,0,0,correct label,correct label,0,0,0,0,0,0
+governance,"citizens united,supreme court,constitutional amendment",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural",small business,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,green new deal,new deal,climate crisis,green new,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"economic,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"fracking,fuel,fossil fuel,fossil",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"small business,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"social programs,economic","jobs,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"health,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"teachers,immigrants","education,immigration",0,0,teachers,0,0,0,0,immigrants,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,environmental","climate change,climate,health","environmental,health",0,0,0,correct label,0,0,correct label,0,0,0,0,0
+economic,"jobs,economy,million jobs,economic",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"education,social programs","loans,education,community college,school,pre k,student,college","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social cultural,social programs","hbcus,debt,minority serving institutions,college,college debt","education,social cultural,social programs",0,0,correct label,0,0,0,0,0,0,0,correct label,correct label
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"education,economic","teachers,teacher pay","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+"education,social programs","teachers,school",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health care,affordable care act,preexisting conditions,health,affordable care,aca,preexisting,obamacare","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"immigration,environmental","climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"education,safety","the nra,nra,school","education,safety",0,0,correct label,0,0,0,0,0,0,correct label,0,0
+safety,"officers,police,enforcement officers",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"social programs,economic",social security,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"military,social programs,economic","giving tax breaks,affordable housing,tax","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+"health,social programs","care plan,universal health,medicare,health care,medicare for all,health,universal health care,private market","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"immigration,governance","citizenship question,citizenship,census","governance,immigration",0,0,0,0,0,correct label,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,service members,military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"education,environmental,military,social programs,economic","endless war,education,clean air,tax,child care","economic,education,environmental,foreign policy,social programs",0,correct label,correct label,correct label,endless war,0,0,0,0,0,0,correct label
+economic,"middle class,tax,deduction,taxes",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+"social cultural,safety","black,tamir rice,police,tamir","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,economic","education,school",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+foreign policy,racist,social cultural,0,0,0,0,0,0,0,0,0,0,racist,0
+"education,economic",living wage,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,social programs,economic","climate change,climate,economic","economic,environmental",0,correct label,0,"climate,climate change",0,0,0,0,0,0,0,0
+"economic,safety",bail,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+immigration,"border crisis,border",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,safety","criminal justice,drugs,banks,foreclosure,criminal justice system,recession,middle class,criminal,assault","economic,safety",0,correct label,0,0,0,0,0,0,0,correct label,0,0
+"economic,social cultural",economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","african americans,african,marijuana","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"education,social programs","school,school choice","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,foreign policy","innocent civilians,radical islamic,christians,religious freedom","foreign policy,social cultural",0,0,0,0,correct label,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","medicare,tax,social security,banks","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,green new deal,new deal,green new,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,debt,social programs,0,0,0,0,0,0,0,0,0,0,0,debt
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,american leadership,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"safety,economic","workers,living wage,nra,the nra","economic,safety",0,correct label,0,0,0,0,0,0,0,correct label,0,0
+environmental,"climate change,climate,defeat climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","medicare,health care,going bankrupt,medicare for all,health,jobs","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,barr,governance,0,0,0,0,0,barr,0,0,0,0,0,0
+environmental,"climate change,climate,climatechange",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"governance,health,military,social cultural,safety","ptsd,color,people of color,medical marijuana,incarcerate,privileged,marijuana","military,safety,social cultural",0,0,0,0,0,0,0,0,correct label,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+safety,"crime rate,officers,safest cities",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+governance,mueller report,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military",healthcare,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+"health,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+"immigration,safety,economic","living wage,gun control,gun","economic,safety",0,correct label,0,0,0,0,0,0,0,correct label,0,0
+economic,"workers,tax,wages",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs,economic","teachers,broken system","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental","jobs,climate change,climate","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+"environmental,economic","jobs,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"border security,border,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,economic",teachers,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,tax,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,health,social programs","education,health care,health,economy","economic,education,health,social programs",0,correct label,correct label,0,0,0,correct label,0,0,0,0,correct label
+"social cultural,economic",economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"workers,american workers",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,health,health,0,0,0,0,0,0,health,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"black,african american,student,african","education,social cultural,social programs",0,0,student,0,0,0,0,0,0,0,"black,african,african american",student
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,social cultural,safety",immigration,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,environment,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"economic,education,social programs","debt,student debt,student,college,college debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"economic,immigration,governance","workers,federal workers,border,shutdown","economic,governance,immigration",0,correct label,0,0,0,correct label,0,correct label,0,0,0,0
+"health,safety,social programs","health care,health,incarcerated","health,safety,social programs",0,0,0,0,0,0,correct label,0,0,correct label,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,usmca,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"racial,economic","economic,social cultural",0,economic,0,0,0,0,0,0,0,0,racial,0
+social programs,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs,economic","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,border,immigration,0,0,0,0,0,0,0,border,0,0,0,0
+social cultural,"anti muslim,muslim",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+environmental,"emissions,economy,climate","economic,environmental",0,economy,0,"emissions,climate",0,0,0,0,0,0,0,0
+"health,social programs","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"workers,fight for 15,wages",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,foreign policy","security interests,u s intelligence",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"economic,environmental,health,social programs","climate change,health care,health,climate","environmental,health,social programs",0,0,0,correct label,0,0,correct label,0,0,0,0,correct label
+no topic,teachers,education,0,0,teachers,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural",reproductive rights,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+"health,social cultural,safety","criminal justice,addicted,criminal justice system,incarcerate,criminal",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"public option,banking",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"justice reform,criminal,criminal justice",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","racist,criminal justice,criminal justice system,criminal","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,health,immigration,social programs,foreign policy","foreign,foreign affairs,health care,health,immigration","foreign policy,health,immigration,social programs",0,0,0,0,correct label,0,correct label,correct label,0,0,0,correct label
+"education,governance,social cultural,safety","assault,college",safety,0,0,0,0,0,0,0,0,0,correct label,0,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,economic","workers,federal workers,shutdown","economic,governance",0,correct label,0,0,0,"shutdown,federal workers",0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,"enlist,service members",military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"governance,economic","stock,tax",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+economic,economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,tax,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","black,health care system,health care,pregnancy,health,racism,institutional racism","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,racist,social cultural,0,0,0,0,0,0,0,0,0,0,racist,0
+no topic,health,health,0,0,0,0,0,0,health,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,immigration,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic",economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","student loan,debt,student,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","payer system,single payer,drugs,medicare,health care,prescription,copays,medicare for all,health,single payer system","health,safety,social programs",0,0,0,0,0,0,correct label,0,0,drugs,0,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"criminal,criminal justice,criminal justice system",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+governance,federal lobbyists,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+environmental,"climate change,climate,defeat climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+safety,marijuana,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"education,economic",public schools,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health insurance,guarantee health care,medicare,health care,medicare for all,health,guarantee health,private health insurance,private health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"health,social cultural",abortion,"health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance","workers,federal workers,shutdown","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic",equal pay,"economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,safety",assault,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"education,social programs","student loan,debt,education,student,college,loan debt,student loan debt,college debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,economic",workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,safety","gun violence,gun,school","education,safety",0,0,correct label,0,0,0,0,0,0,correct label,0,0
+social cultural,"racial,economic","economic,social cultural",0,economic,0,0,0,0,0,0,0,0,racial,0
+governance,"constitution,impeachment",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+social cultural,"african americans,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,troops,military,0,0,0,0,0,0,0,0,troops,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"jobs,create jobs",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"governance,military,safety,social cultural,economic","bailout,assault,colleges","economic,safety,social programs",0,correct label,0,0,0,0,0,0,0,correct label,0,colleges
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,immigration,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,foreign,foreign policy,0,0,0,0,foreign,0,0,0,0,0,0,0
+immigration,"immigration reform,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural",color,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,economic","teachers,wages","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,economic",floods,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"environmental,economic","renewable energy,economy,renewable,economic","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,immigration,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"jobs,created jobs,collar",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+immigration,"asylum,immigration policies,asylum seekers,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,voting rights,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,tax,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+foreign policy,"iraq war,endless war,diplomacy,foreign",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"governance,environmental","filibuster,climate","environmental,governance",0,0,0,correct label,0,correct label,0,0,0,0,0,0
+economic,"systemic racism,systemic,racism,economic","economic,social cultural",0,economic,0,0,0,0,0,0,0,0,"systemic,systemic racism,racism",0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,foreign policy",senseless,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"education,social programs,economic","bail,debt,debt free,student debt,colleges,public colleges,student,tax,college","economic,education,safety,social programs",0,correct label,correct label,0,0,0,0,0,0,bail,0,correct label
+no topic,black,social cultural,0,0,0,0,0,0,0,0,0,0,black,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"illegal immigration,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"environmental,economic","manufacturing,manufacturing plan,environment,jobs,green jobs","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,"college,school",education,0,0,school,0,0,0,0,0,0,0,0,college
+immigration,borders,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"health,social cultural","pregnancy,color",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+safety,"gun,shootings",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+foreign policy,"saudi arabia,arabia",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+immigration,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,debt,social programs,0,0,0,0,0,0,0,0,0,0,0,debt
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","graduate,student loan,debt,education,education department,school,cancel student loan debt,public college,student,college,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"governance,safety","criminal justice,criminal,right to vote,racist,criminal justice system,voter suppression","governance,safety,social cultural",0,0,0,0,0,correct label,0,0,0,correct label,racist,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,economic","jobs,economy,immigrants","economic,immigration",0,correct label,0,0,0,0,0,correct label,0,0,0,0
+safety,"police officers,officers,police",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+environmental,climatedebate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"black,college",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,college
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,safety","heroin,prescription drug,prescription","health,safety",0,0,0,0,0,0,correct label,0,0,correct label,0,0
+environmental,"climate change,climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"health,safety","gun,health","health,safety",0,0,0,0,0,0,correct label,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","bail,drugs,private prison,cash bail,prison,color,marijuana","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"health,safety",opioids,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"economic,education,social programs","education,vocational,health,jobs,wages,vocational education","economic,education,health,social programs",0,correct label,correct label,0,0,0,health,0,0,0,0,correct label
+immigration,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"foreign policy,immigration",asylum,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","health care,reproductive health,health","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,health care
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"seeking asylum,immigration policies,asylum,immigration,immigrants",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,health,social programs","climate change,health care,economy,health,climate","economic,environmental,health,social programs",0,correct label,0,correct label,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"immigrants,undocumented,citizenship,undocumented immigrants",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"education,social cultural","education,black,college,african","education,social cultural",0,0,correct label,0,0,0,0,0,0,0,correct label,college
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural",reproductive rights,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"job creating,economic",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"governance,social cultural,economic","equal pay,discrimination","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,school,education,0,0,school,0,0,0,0,0,0,0,0,0
+"education,social programs,economic","middle class,tax",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","guarantee health care,health care,health,guarantee health,transgender","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","healthcare,medicare,health care,medicare for all,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","workers,health care,health,pensions,wages","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"border security,border",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+"education,economic","teachers,tax,jobs","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+economic,"workers,american workers,manufacturing",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,safety,social programs,environmental","climate change,medicare,medicare for all,gun,climate,gun violence","environmental,safety,social programs",0,0,0,correct label,0,0,0,0,0,correct label,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","teenage,color",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"education,economic","teachers,teacher pay","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"middle class,wages,workers",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,health,health,0,0,0,0,0,0,health,0,0,0,0,0
+economic,economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"middle class,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,social cultural","economic,racism,racial,xenophobia","economic,immigration,social cultural",0,correct label,0,0,0,0,0,xenophobia,0,0,correct label,0
+immigration,"border security,border",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"voter suppression,gerrymandering,citizens united",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,governance","racist,voting rights act,voting rights,gerrymandering","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,economic","prescription drug,prescription,drugs","health,safety",0,0,0,0,0,0,correct label,0,0,drugs,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,economic","savings,shutdown","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+safety,"gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance","voter suppression,school,economic","economic,education,governance",0,correct label,school,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"criminal,impeach","governance,safety",0,0,0,0,0,impeach,0,0,0,criminal,0,0
+no topic,gay,social cultural,0,0,0,0,0,0,0,0,0,0,gay,0
+"safety,social cultural",discrimination,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"economic,foreign policy","workers,geopolitical,economic","economic,foreign policy",0,correct label,0,0,correct label,0,0,0,0,0,0,0
+"education,economic",teachers,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,economic,economic,0,economic,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,gun,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"economy,wealth,tax,taxes",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"governance,health,social cultural","roe v wade,wade,roe","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs","free college,student loan,debt,student,college,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+economic,"economy,wages",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military,social programs,economic","jobs,health care,health","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"small business,business owner",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health insurance,healthcare,health,private health insurance,private health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"economic,education,governance,environmental","climate change,higher education,education,school,college,climate","education,environmental,social programs",0,0,correct label,correct label,0,0,0,0,0,0,0,"college,higher education"
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"immigration policy,immigration system,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"governance,health,social cultural","wade,women national,contraception,roe,hyde amendment","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"the nra,gun,nra,shareholders","economic,safety",0,shareholders,0,0,0,0,0,0,0,"the nra,gun,nra",0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"impeachment,mueller report",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"economic,social programs","economy,care plan,universal child care,child care","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+"safety,immigration","gun,assault,safety legislation,immigration","immigration,safety",0,0,0,0,0,0,0,correct label,0,correct label,0,0
+immigration,borders,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+governance,mueller report,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"health,social programs,economic","jobs,health care,health","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,correct label
+economic,tax,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,barr,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,immigration,economic","workers,federal workers,border,shutdown","economic,governance,immigration",0,correct label,0,0,0,correct label,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","planned parenthood,health care,health,reproductive rights","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental","renewable energy,fossil fuels,renewable,carbon emissions,emissions,carbon,jobs,paying jobs,fossil","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","medicare,medicare for all",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+economic,workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,governance","wade,abortion,roe,abortions,roe v wade","governance,health,social cultural",0,0,0,0,0,correct label,correct label,0,0,0,correct label,0
+no topic,"gun,big pharma,immigration","health,immigration,safety",0,0,0,0,0,0,big pharma,immigration,0,gun,0,0
+"economic,governance","shutdown,economic","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"safety,immigration","drugs,border","immigration,safety",0,0,0,0,0,0,0,correct label,0,correct label,0,0
+"education,health,safety,social cultural","mosque,black,prison population,muslim,racist,drugs,hate crimes,color,people of color,muslims,racism,prison,wealth,black america","economic,safety,social cultural",0,wealth,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance","workers,federal workers,shutdown","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+"health,social programs",healthcare,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+governance,mueller report,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,consumers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental","jobs,fuel,fossil fuel,fossil","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+environmental,"drilling,environmental protection",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"health,economic","insulin,big pharma",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+safety,"justice reform,criminal,criminal justice",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,social programs","living wage,healthcare","economic,health",0,correct label,0,0,0,0,correct label,0,0,0,0,0
+immigration,immigration,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,ubi,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+economic,equal pay,"economic,social cultural",0,equal pay,0,0,0,0,0,0,0,0,equal pay,0
+"economic,education,social programs,safety","jobs,education,jails,incarceration","economic,education,safety",0,correct label,correct label,0,0,0,0,0,0,correct label,0,0
+social cultural,racist,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,governance","voting rights act,voting rights,abortion","governance,health,social cultural",0,0,0,0,0,correct label,correct label,0,0,0,correct label,0
+"education,social programs","education,student,debt,higher education","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,safety","show loophole,arming,teachers,gun,the gun,assault,loophole","education,safety",0,0,correct label,0,0,0,0,0,0,correct label,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,shutdown,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"safety,social cultural","black,criminal justice,police,systemic,criminal justice system,discrimination,criminal","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+social cultural,"african americans,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,health,social programs,immigration","immigration reform,student loan,debt,loan debt,student,health,immigration,student loan debt","education,health,immigration,social programs",0,0,correct label,0,0,0,correct label,correct label,0,0,0,correct label
+governance,right to vote,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"health,social programs","universal healthcare,healthcare",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+immigration,"borders,immigration system,migration,immigration,immigrants,anti immigrant",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+safety,"assault,shootings",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","extremist,abortion","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+"health,social programs","premiums,million americans,pre existing conditions,obamacare,aca,pre existing","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"education,economic","teachers,living wage","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+"foreign policy,military,social cultural",racism,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+safety,domestic violence,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"health,safety,social programs,economic","gun,health care,health,gun violence","health,safety,social programs",0,0,0,0,0,0,correct label,0,0,correct label,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,assault,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+economic,"workers,american workers",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"workers,tax,taxes",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+social cultural,marriage equality,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,safety",prison,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"environmental,economic","climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,social cultural","colleges,black","social cultural,social programs",0,0,0,0,0,0,0,0,0,0,correct label,colleges
+"foreign policy,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+military,service members,military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"education,social programs,economic","tax,school","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+"environmental,social cultural,economic","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+"health,social programs,social cultural",black,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+immigration,"immigrants,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social cultural","education,school",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+governance,"barr,impeachment",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+governance,impeach,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,federal lobbyists,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+environmental,"climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural",abortion,"health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+"governance,environmental","climate change,climate,defeat climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,color,social cultural,0,0,0,0,0,0,0,0,0,0,color,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"immigrants,detention,asylum,asylum seekers",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"systemic racism,rosa parks,systemic,racism,racial",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+social cultural,debt,social programs,0,0,0,0,0,0,0,0,0,0,0,debt
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,economic","jobs,economy,immigrants","economic,immigration",0,correct label,0,0,0,0,0,correct label,0,0,0,0
+governance,"black,impeachment","governance,social cultural",0,0,0,0,0,impeachment,0,0,0,0,black,0
+immigration,borders,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"economic,education,social programs","education,tax,giving tax breaks","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+"economic,education,social programs","student loan,debt,student,economy,loan debt,student loan debt","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+"economic,social cultural","segregated,racist,discrimination,black",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"foreign policy,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,federal lobbyists,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"economic,health,social programs,environmental","equal pay,climate change,health care,health,defeat climate,climate","economic,environmental,health,social cultural,social programs",0,correct label,0,correct label,0,0,correct label,0,0,0,equal pay,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","color,transgender",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,wounded warrior,military,0,0,0,0,0,0,0,0,correct label,0,0,0
+immigration,"undocumented,immigration system,undocumented people,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"education,economic",teachers,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","reproductive rights,abortion","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+"immigration,military,safety","borders,vets","immigration,military",0,0,0,0,0,0,0,correct label,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance","workers,american workers,shutdown","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"economy,monopolistic",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","workers,latino","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+social cultural,planned parenthood,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+economic,wealth,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,color,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"living wage,wages",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+governance,voter suppression,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+health,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,criminal,safety,0,0,0,0,0,0,0,0,0,criminal,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","pre existing conditions,pre existing,obamacare,healthcare","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"health,social cultural","health care,health,abortion","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,health care
+"economic,immigration","middle class,border security,borders,border","economic,immigration",0,correct label,0,0,0,0,0,correct label,0,0,0,0
+"economic,education,governance,safety,social programs,social cultural","black,living wage,education system,graduation,higher education,education,childcare,universal pre k,school,pre k,teachers,prosecute,nominated,prison,color","economic,education,governance,safety,social cultural,social programs",0,correct label,correct label,0,0,correct label,0,0,0,correct label,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,constitution,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","nra,the nra,gun,the gun,assault,gun lobby",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"education,economic",teachers,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+"economic,education,environmental,governance,health,social programs,social cultural","reproductive rights,abortion,ceos,medicare,education,health care,institutional racism,medicare for all,public schools,tax,health,racism,assault,teacher pay,handouts","economic,education,health,safety,social cultural,social programs",0,correct label,correct label,0,0,0,correct label,0,0,assault,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"immigrants,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health insurance,enroll,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"immigrants,borders,citizenship",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"social cultural,foreign policy",senseless,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"military,safety",assault,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,economic",teachers,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+"health,social programs","medicare,strengthen social,social security",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+"education,social programs","debt,tuition,higher education,education,student debt,colleges,public colleges,student,tuition free","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"social cultural,immigration",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"border,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"economic,education,social programs","student loan,debt,student,economy,loan debt,student loan debt","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+"economic,education,social programs","education,teachers",education,0,0,correct label,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,immigration,social cultural,social programs","systemic,immigration,healthcare,healthcare immigration","health,immigration,social cultural,social programs",0,0,0,0,0,0,correct label,correct label,0,0,correct label,correct label
+"safety,immigration","immigrants,solitary confinement,assault,immigration","immigration,safety",0,0,0,0,0,0,0,correct label,0,correct label,0,0
+"economic,governance",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs,economic","graduate,debt,tuition,college tuition,education,student debt,education plan,school,student,college,grad school,tuition free,student debt crisis","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","economy,color","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+"health,economic","prescription drug,prescription",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"jobs,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+safety,"the nra,gun,nra",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"environmental,economic","jobs,economy,green jobs","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"abortions,abortion","health,social cultural",0,0,0,0,0,0,abortion,0,0,0,"abortions,abortion",0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"economic,education,safety","teachers,gun,gun violence","education,safety",0,0,correct label,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,foreign policy","innocent civilians,radical islamic,christians,religious freedom","foreign policy,social cultural",0,0,0,0,correct label,0,0,0,0,0,correct label,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,health,social cultural","wade,pro choice,abortion,health care,reproductive health,health,roe,roe v wade","governance,health,social cultural,social programs",0,0,0,0,0,correct label,correct label,0,0,0,correct label,health care
+foreign policy,north korea,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","assault,health","health,safety",0,0,0,0,0,0,correct label,0,0,assault,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,health,health,0,0,0,0,0,0,health,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance,social cultural,immigration","constitution,government spending,border,xenophobia","economic,governance,immigration",0,correct label,0,0,0,correct label,0,correct label,0,0,0,0
+"military,governance","constitution,base","governance,military",0,0,0,0,0,correct label,0,0,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,manufacturing",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental","green new,new deal,green new deal",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"police officers,officers,police",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+health,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs",health,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+safety,gun,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"immigration,economic","jobs,immigrants,jobs lost,manufacturing","economic,immigration",0,correct label,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health care,health,health care system","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"gun violence,gun,school,senseless","education,foreign policy,safety",0,0,school,0,senseless,0,0,0,0,"gun violence,gun",0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,economic","jobs,fuel,fossil fuel,fossil","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,barr,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"sexual orientation,color",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,college,no topic,0,0,0,0,0,0,0,0,0,0,0,college
+"economic,environmental","fossil fuel,climate change,fuel,climate,fossil",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"foreign policy,military",every veteran,military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"social cultural,governance","expand voting rights,voting rights",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,environmental","climatedebate,climate change,defeat climate,climate,floods",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural",latinos,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health insurance,medicare,medicare for all,health,private health insurance,private health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"military,foreign policy",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,economic","mortgages,shutdown","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+"economic,education,environmental,foreign policy,social programs,military","endless war,education,clean air,tax,child care","economic,education,environmental,foreign policy,social programs",0,correct label,correct label,correct label,correct label,0,0,0,0,0,0,correct label
+"health,social programs,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"impeachment,million americans",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,jobs,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,education,social programs,environmental","colleges,consumers,environment","economic,environmental,social programs",0,correct label,0,correct label,0,0,0,0,0,0,0,correct label
+safety,"gun,loophole,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"education,social programs",public schools,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+economic,middle class,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,safety","addiction,shootings,health","health,safety",0,0,0,0,0,0,correct label,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"the nra,nra",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+safety,"gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,social programs","debt,student debt,crushing student,student,economy,college,jobs,student debt crisis","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,immigration","immigration reform,racism,immigration,anti immigrant,comprehensive immigration","immigration,social cultural",0,0,0,0,0,0,0,correct label,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,many americans,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,environment,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"education,environmental,governance,health,social programs,economic","living wage,affordable housing,education,health care,economic,clean environment,health,environment","economic,education,environmental,health,social programs",0,correct label,correct label,correct label,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,social programs,economic","debt,student debt,college graduates,student,college,graduates,jobs,paying jobs","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,correct label
+no topic,school,education,0,0,school,0,0,0,0,0,0,0,0,0
+social programs,ubi,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+"economic,social cultural",economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+social programs,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"economic,social programs","beneficiaries,savings,stock,recession,security trust,wages,social security","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural","color,transgender",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"safety,social cultural",black,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"health,environmental",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","black,black america",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"military,social cultural,immigration","cages,islamophobia,prejudice","immigration,social cultural",0,0,0,0,0,0,0,correct label,0,0,correct label,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,safety","detention,private prisons","immigration,safety",0,0,0,0,0,0,0,correct label,0,correct label,0,0
+"health,social programs","medicare,medicare for all",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"immigration,social cultural","racist,immigration","immigration,social cultural",0,0,0,0,0,0,0,correct label,0,0,correct label,0
+governance,prosecute,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"education,immigration,social programs","immigration makes,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural","racism,emmett","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"environmental,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,governance","supreme court,2020 census,census","governance,immigration",0,0,0,0,0,correct label,0,correct label,0,0,0,0
+"safety,economic",economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"economic,education,social programs","debt,student debt,student,college,college debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","deficit,medicare,tax,large corporations,social security","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,correct label
+environmental,"climate change,climate,environment",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"environmental,health,immigration,social programs,economic","climate change,healthcare,healthcare immigration,immigration,climate","environmental,health,immigration,social programs",0,0,0,correct label,0,0,correct label,correct label,0,0,0,correct label
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"drugs,incarcerated",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+economic,"middle class,economy,taxes",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,governance","right to vote,expand voting rights,voting rights,color","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+"governance,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,"cages,borders,asylum,asylum seekers,immigrants",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"environmental,economic","fossil fuel,climate change,fossil fuels,fuel,climate,fossil",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,economic","green new deal,new deal,economic,green new,creating jobs,jobs","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance,health,safety,health","jobs,million jobs",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,jobs,economic,0,jobs,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,social programs","guarantee health care,medicare,health care,medicare for all,reproductive health,health,guarantee health","health,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,0,correct label,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,testing,covid,testing,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,workers,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,economic","workers,pensions,wealth,federal workers","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+"safety,social cultural","black,criminal justice,criminal justice system,criminal,color","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","extremist,pregnancy,abortion","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"discrimination,lgbt",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"social cultural,military","transgender,troops","military,social cultural",0,0,0,0,0,0,0,0,correct label,0,correct label,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,health,safety,governance","drilling,environmental protection,health,economy,environment,natural resources","economic,environmental,health",0,correct label,0,correct label,0,0,correct label,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"living wage,economic",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,health,immigration,governance","border crisis,border,drug prices","health,immigration",0,0,0,0,0,0,correct label,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,jobs,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"workers,wages,color","economic,social cultural",0,"workers,wages",0,0,0,0,0,0,0,0,color,0
+environmental,"change watch,climate change,climate,defeat climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural,economic",domestic violence,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+immigration,border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"education,social programs","student loan,debt,million americans,public college,student,college,loan debt,student loan debt","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+"social cultural,safety","massacre,anti semitism","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"economic,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","racism,supremacy,emmett","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"economic,governance","mueller report,taxpayers,foreign","economic,foreign policy,governance",0,correct label,0,0,foreign,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","jobs,latinos,poverty level,jobs created","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"social cultural,governance","vra,discriminatory policies,voting rights act,voting rights,color","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+safety,"gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"social cultural,safety","the nra,gun,nra,pass gun",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"fuel,anti semitism,racism","environmental,social cultural",0,0,0,fuel,0,0,0,0,0,0,"anti semitism,racism",0
+social cultural,abortion,"health,social cultural",0,0,0,0,0,0,abortion,0,0,0,abortion,0
+environmental,climatechange,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+economic,wealth,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+foreign policy,prison,safety,0,0,0,0,0,0,0,0,0,prison,0,0
+economic,"workers,savings,wages,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate,defeat climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+environmental,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"latino,school","education,social cultural",0,0,school,0,0,0,0,0,0,0,latino,0
+"economic,social cultural","education,prosperity","economic,education",0,correct label,education,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","medicare,health care,health,medicare for all","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,social programs,social cultural","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural","color,census","governance,immigration,social cultural",0,0,0,0,0,census,0,census,0,0,correct label,0
+"social cultural,governance","mueller report,racism","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+"economic,environmental","climate change,climatechange,emissions,tax,natural gas,climate,carbon","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,military,social programs,economic","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+immigration,"immigration policy,immigration system,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,governance,economic",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs","health insurance,health care system,medicare,health care,medicare for all,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,health,immigration,education","fossil fuels,climate change,private sector,fossil fuel,education,fuel,health care,health,migration,jobs,climate,fossil","economic,education,environmental,health,immigration,social programs",0,correct label,correct label,correct label,0,0,correct label,correct label,0,0,0,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+"social programs,health","health care,health,healthcare","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+governance,rigged election,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","many americans,health",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,stock,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,prosecute,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+safety,gun,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"safety,health",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"health care,health","health,social programs",0,0,0,0,0,0,"health care,health",0,0,0,0,health care
+governance,"right to vote,ballot box",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"foreign policy,military,governance","send troops,endless war,troops","foreign policy,military",0,0,0,0,correct label,0,0,0,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,education",education,education,0,0,correct label,0,0,0,0,0,0,0,0,0
+"health,covid",coronavirus,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,safety","the nra,gun,nra",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,rigged election,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,troops,military,0,0,0,0,0,0,0,0,troops,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","ventilators,testing",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+immigration,immigrants,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"health,military",health,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+social programs,"expand benefits,social security",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+"immigration,military",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,middle class,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"economic,safety","justice reform,criminal,criminal justice",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"economic,social cultural,social programs,safety","criminal,criminal justice,affordable housing","safety,social programs",0,0,0,0,0,0,0,0,0,correct label,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,color,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","economy,national testing strategy,testing","covid,economic",correct label,economy,0,0,0,0,0,0,0,0,0,0
+"health,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"ceos,wall street ceos,middle class",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,foreign policy","militarily,ceasefire,refugees","foreign policy,immigration",0,0,0,0,correct label,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,foreign policy,social programs","iraq war,nafta,social security","foreign policy,social programs",0,0,0,0,correct label,0,0,0,0,0,0,correct label
+health,"many americans,health care,health,debt","health,social programs",0,0,0,0,0,0,"health care,health",0,0,0,0,"health care,debt"
+"economic,health,covid","economy,coronavirus pandemic,coronavirus,pandemic","covid,economic",correct label,correct label,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,taxes,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+foreign policy,"american leadership,foreign",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+governance,constitution,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,governance",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"fuel,fossil fuel,climate,fossil",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,middle class,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"environmental,health,economic","health,environment,economic","economic,environmental,health",0,correct label,0,correct label,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,teachers,education,0,0,teachers,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,citizenship,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural","racist,wealth,color","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+governance,"court nominees,supreme court,nominees",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"safety,education","student,police,environment,incarceration","education,environmental,safety,social programs",0,0,correct label,environment,0,0,0,0,0,correct label,0,student
+education,"student loan,debt,student,college,loan debt,student loan debt","education,social programs",0,0,student,0,0,0,0,0,0,0,0,"college,student,student loan,loan debt,debt,student loan debt"
+"economic,health,social cultural",equal pay,"economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,safety",detention,immigration,0,0,0,0,0,0,0,detention,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,systemic,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,safety,social cultural","hate crimes,racism","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,color,social cultural,0,0,0,0,0,0,0,0,0,0,color,0
+safety,"justice reform,criminal,criminal justice",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health",testing,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,environmental,social cultural","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,economy,economic,0,economy,0,0,0,0,0,0,0,0,0,0
+foreign policy,usmca,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"gun,the gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"ceos,criminal","economic,safety",0,ceos,0,0,0,0,0,0,0,criminal,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health",student,"education,social programs",0,0,student,0,0,0,0,0,0,0,0,student
+economic,economic,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid",coronavirus,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"discrimination,muslims,racial",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,economy,economic,0,economy,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,social programs,health",health,health,0,0,0,0,0,0,correct label,0,0,0,0,0
+"covid,foreign policy,health","health,coronavirus,virus","covid,health",correct label,0,0,0,0,0,correct label,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","universal healthcare,healthcare,many americans,pre existing conditions,obamacare,pre existing","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"safety,social cultural","black,tamir rice,tamir","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,jobs,economic,0,jobs,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","universal healthcare,universal coverage,healthcare,payer system,single payer,premiums,public option,healthcare plan,single payer system,insurance company,deductibles","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"economic,environmental,social cultural","racial,economic","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+"covid,governance,economic","jobs,shutdown,economic","economic,governance",0,correct label,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"covid 19,covid",covid,"covid,covid 19",0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,constitution,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,health,economic","tax,school","economic,education",0,correct label,correct label,0,0,0,0,0,0,0,0,0
+"economic,health","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,health care
+foreign policy,"resurgence,al qaeda,nuclear weapon,qaeda",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social programs,economic","medicare,going bankrupt,medicare for all,need medicare",social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+health,"prescription drug,prescription",health,0,0,0,0,0,0,correct label,0,0,0,0,0
+"governance,military,foreign policy",service members,military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"social cultural,safety","hate crimes,domestic violence,shootings,gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,"impeachment,usmca","foreign policy,governance",0,0,0,0,usmca,impeachment,0,0,0,0,0,0
+immigration,prosperity,economic,0,prosperity,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,immigrants,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+"social programs,economic",affordable housing,social programs,0,0,0,0,0,0,0,0,0,0,0,correct label
+no topic,"workers,health care,health","economic,health,social programs",0,workers,0,0,0,0,"health care,health",0,0,0,0,health care
+"health,social cultural,governance","wade,abortion,roe,roe v wade,justices","governance,health,social cultural",0,0,0,0,0,correct label,correct label,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,education,health,safety","education,health","education,health",0,0,correct label,0,0,0,correct label,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,governance",black,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"covid,health",protective equipment,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"justice reform,criminal,criminal justice,incarcerated",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"health,covid",coronavirus,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,"middle class,sexual orientation","economic,social cultural",0,middle class,0,0,0,0,0,0,0,0,sexual orientation,0
+safety,marijuana,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"health,covid",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"foreign policy,governance",foreign,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,latinos,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+economic,"savings,shareholders,wealth,banks",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,education",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,health,health,0,0,0,0,0,0,health,0,0,0,0,0
+governance,"impeachment,mueller report",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,covid","coronavirus pandemic,virtual town hall,pandemic,coronavirus",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","health care,coronavirus,cdc,health","covid,health,social programs",correct label,0,0,0,0,0,correct label,0,0,0,0,health care
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","workers,virtual town hall","covid,economic",correct label,workers,0,0,0,0,0,0,0,0,0,0
+"foreign policy,immigration,social cultural","muslim ban,muslim","foreign policy,social cultural",0,0,0,0,correct label,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,social programs,health","health care system,medicare,health care,million americans,medicare for all,health,coronavirus,need medicare","covid,health,social programs",correct label,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"racism,prejudice",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"education,governance,social cultural","disabilities,education,special education,voting rights act,voting rights","education,governance,social cultural",0,0,correct label,0,0,correct label,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,criminal,safety,0,0,0,0,0,0,0,0,0,criminal,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"commonsense gun,gun",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+environmental,"climate change,climate,environment",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,middle class,economic,0,middle class,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","coronavirus,health","covid,health",correct label,0,0,0,0,0,correct label,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"military,foreign policy",usmca,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"immigration,social cultural,health","disabilities,green cards,immigration,immigrants,xenophobia","immigration,social cultural",0,0,0,0,0,0,0,correct label,0,0,correct label,0
+foreign policy,foreign,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"covid,governance",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"the nra,gun,nra,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,foreign policy",usmca,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"health,safety,covid",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,economic","small business,pandemic,banks","covid,economic",correct label,correct label,0,0,0,0,0,0,0,0,0,0
+social cultural,anti semitism,social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+"health,covid",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"nra,ending gun,the nra,gun,gun violence,gun lobby",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,safety","black,criminal justice,health care,addiction,criminal justice system,health,criminal,broken criminal","health,safety,social cultural,social programs",0,0,0,0,0,0,correct label,0,0,correct label,correct label,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,capitalism,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,"public servant america,foreign",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","health insurance,medicare,million americans,affordable care act,medicare for all,health,affordable care","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"foreign policy,governance,economic","american companies,foreign","economic,foreign policy",0,correct label,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,large corporations,tax",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,marijuana,safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,environmental","climate change,climate,floods,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"safety,social cultural","black,capital punishment,death penalty","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+"social cultural,health","health care,health","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,economic,health",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+immigration,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,jobs,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,covid","many americans,virus",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+safety,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"jobs,economy,wages,stagnant",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid",coronavirus,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,economic","economy,health care,health,american worker","economic,health,social programs",0,correct label,0,0,0,0,correct label,0,0,0,0,health care
+"social cultural,immigration","immigration policy,immigration",immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+safety,"the nra,gun,nra,gun lobby",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,safety","racist,latino,black,marijuana","safety,social cultural",0,0,0,0,0,0,0,0,0,correct label,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,social cultural",virus,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"constitution,impeachment",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"foreign policy,governance",impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,wealth,economic,0,wealth,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","racist,banks","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+environmental,"climate change,climate,climate crisis",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+safety,"gun,gun violence",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+foreign policy,"iran deal,kingdom",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"workers,american workers",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural","health,pulpit","health,social cultural",0,0,0,0,0,0,correct label,0,0,0,correct label,0
+"covid,health","covid 19,covid",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,foreign policy",restrict travel,covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+no topic,black,social cultural,0,0,0,0,0,0,0,0,0,0,black,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,governance,social cultural","sexual orientation,supreme court","governance,social cultural",0,0,0,0,0,correct label,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,economic","economy,coronavirus,economic","covid,economic",correct label,correct label,0,0,0,0,0,0,0,0,0,0
+"covid,health,foreign policy",europe,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,safety,covid","workers,child care,fed","economic,social programs",0,correct label,0,0,0,0,0,0,0,0,0,child care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","health care,health,obamacare","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,impeachment,governance,0,0,0,0,0,impeachment,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social programs,health","health insurance,medicare,medicare for all,health,need medicare","health,social programs",0,0,0,0,0,0,correct label,0,0,0,0,correct label
+"economic,health,education","education,health care,health","education,health,social programs",0,0,correct label,0,0,0,correct label,0,0,0,0,health care
+"social cultural,immigration",border,immigration,0,0,0,0,0,0,0,correct label,0,0,0,0
+governance,constitution,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+military,"gold star families,military leaders",military,0,0,0,0,0,0,0,0,correct label,0,0,0
+"economic,environmental","climate change,green new deal,new deal,economy,green new,defeat climate,jobs,climate","economic,environmental",0,correct label,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,foreign,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health,economic","bailouts,ceos,taxpayers,large corporations,pandemic","covid,economic",correct label,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"foreign policy,military","endless war,troops,combat troops","foreign policy,military",0,0,0,0,correct label,0,0,0,correct label,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,"cold war,foreign,new cold war",foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+"governance,foreign policy",national intelligence,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"many americans,economy",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,"public schools,school",education,0,0,"school,public schools",0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,safety,social programs","affordable housing,school system,school","education,social programs",0,0,correct label,0,0,0,0,0,0,0,0,correct label
+economic,middle class,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"economic,safety",no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,social cultural,covid","covid 19,black,covid","covid,social cultural",correct label,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"impeach president,impeach",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+economic,"workers,jobs",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+social cultural,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"ceos,workers,prosperity",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+social cultural,"african american woman,african american,color,african",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"criminal,criminal justice,criminal justice system,incarceration",safety,0,0,0,0,0,0,0,0,0,correct label,0,0
+"economic,health,social programs,covid","virus,medicare,health care,going bankrupt,care costs,out of pocket,medicare for all,health,health care costs","covid,health,social programs",correct label,0,0,0,0,0,correct label,0,0,0,0,correct label
+"economic,governance",tax,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,latinos,social cultural,0,0,0,0,0,0,0,0,0,0,latinos,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economy,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"right to vote,voter suppression,voting rights",governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+foreign policy,foreign,foreign policy,0,0,0,0,correct label,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"education,health,economic","education,health care,health,wages,child care","economic,education,health,social programs",0,correct label,correct label,0,0,0,correct label,0,0,0,0,"health care,child care"
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"immigration,social cultural,foreign policy","muslims,muslim",social cultural,0,0,0,0,0,0,0,0,0,0,correct label,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"social cultural,economic","economy,black,black communities,color","economic,social cultural",0,correct label,0,0,0,0,0,0,0,0,correct label,0
+economic,wages,economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"health,covid","national testing strategy,testing",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+governance,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"governance,social cultural,health","wade,abortion,health care,contraception,health,roe,roe v wade","governance,health,social cultural,social programs",0,0,0,0,0,correct label,correct label,0,0,0,correct label,health care
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,health","defense production act,invoke,chinese virus,virus",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+"economic,health,covid","covid 19,covid,workers","covid,economic",correct label,correct label,0,0,0,0,0,0,0,0,0,0
+foreign policy,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+"covid,education,economic","student loan,student,economy","economic,education,social programs",0,correct label,correct label,0,0,0,0,0,0,0,0,"student,student loan"
+environmental,climate,environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+no topic,no words,no topic,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"climate change,climate",environmental,0,0,0,correct label,0,0,0,0,0,0,0,0
+governance,impeachment,governance,0,0,0,0,0,correct label,0,0,0,0,0,0
+"economic,social cultural,safety","black,criminal justice,criminal,justice reform,wealth,racial","economic,safety,social cultural",0,correct label,0,0,0,0,0,0,0,correct label,correct label,0
+economic,"workers,american workers",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+economic,"economy,tax,tax plan",economic,0,correct label,0,0,0,0,0,0,0,0,0,0
+"health,covid","ventilators,invoke",covid,correct label,0,0,0,0,0,0,0,0,0,0,0
+"economic,social cultural,education","education,black,segregated","education,social cultural",0,0,correct label,0,0,0,0,0,0,0,correct label,0
