@@ -16,6 +16,11 @@ A file contains the processing scripts including:
 
 ## Optimize the lexicon 
 1. find the missclassifing seed words
-2. calculate the ratio of correct 
+2. calculate the ratio of correct
 3. Make new lexicon (Version1-Version4.7)
+4. FB-extend-lexicon: extend the lexicon from facebook data
+5. tw-extend-lexicon: extend the lexicon from twitter data
+6. Lexicon.doc sets of seed words after editing by human annotator
+7. Combine data set and one-hot-encoding: data pre-processing for SVM classification
+8. 2020 FB ads lexicon test-the raw lexicon : test the raw lexicon on classifying 2020 facebook ads and see its performance
 
