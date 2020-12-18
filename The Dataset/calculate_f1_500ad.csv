@@ -1,0 +1,501 @@
+Gold Label,m_label,economic,environment,foreign policy,governance,immigration,military,safety,social programs,social and cultural,economic_pred,environment_pred,foreign policy_pred,governance_pred,immigration_pred,military_pred,safety_pred,social programs_pred,social and cultural_pred
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,"foreign policy,social programs",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+social programs,"economic,social and cultural,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+social programs,"economic,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+none,governance,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" social programs,economic",social programs,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+" environment, governance, social programs,economic","economic,environment,social programs",1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+" social and cultural,social programs",social programs,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+" safety,economic","economic,safety,social and cultural",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,environment,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,immigration,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,social programs",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" governance,economic","economic,environment,governance,military,safety,social programs",1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+social and cultural,none,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+" environment,foreign policy","environment,foreign policy",0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+" foreign policy,environment",environment,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+immigration,immigration,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" environment, social programs,economic","economic,environment,social programs",1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+safety,"economic,safety",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+none,governance,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+" environment,social and cultural","environment,social and cultural",0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+" economic,social programs","economic,social programs",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+social programs,"economic,social and cultural,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+" social programs,economic","economic,social programs",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+environment,"environment,social and cultural",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+environment,environment,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, environment,social and cultural","economic,environment,social and cultural",1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+" social and cultural,social programs",social programs,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,economic","economic,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+environment,environment,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+" immigration, social programs,environment","environment,foreign policy,immigration,social programs",0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,0
+" social and cultural,safety","safety,social and cultural",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+social and cultural,none,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+social and cultural,none,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+" economic,social and cultural","economic,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,military,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+" economic,social and cultural","economic,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,social and cultural",none,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" foreign policy,environment",none,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,foreign policy",foreign policy,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+foreign policy,foreign policy,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,economic,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+" economic, foreign policy, military,social programs","economic,environment,foreign policy,military",1,0,1,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0
+social programs,none,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,social programs","economic,social programs",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+" social programs,social and cultural",social programs,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+" social and cultural,social programs",social programs,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+social and cultural,"social and cultural,social programs",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" social and cultural,environment","economic,environment,governance",0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,none,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,environment","environment,social programs",0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" environment,economic","economic,environment,immigration",1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"economic,foreign policy,safety",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,social programs","social and cultural,social programs",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+" social and cultural,economic","economic,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" immigration, safety, social and cultural,environment","environment,immigration",0,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+social programs,"economic,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+" environment,economic",economic,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,safety","economic,safety,social programs",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, environment, immigration, safety, social and cultural,social programs","economic,safety,social programs",1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" safety,social and cultural",social and cultural,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,environment,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,safety",none,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,environment,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,social programs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+governance,"governance,safety",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+" social and cultural,governance",none,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+" economic,social and cultural","economic,foreign policy,social and cultural",1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+" economic,social and cultural","economic,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,safety",none,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+environment,environment,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+environment,environment,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+environment,environment,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,governance",social and cultural,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+governance,"foreign policy,governance",0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+governance,governance,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,none,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,"economic,environment",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+military,"military,safety",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,military","economic,foreign policy",1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,"economic,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,"economic,safety",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social programs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+" environment, immigration, safety,economic","economic,environment,foreign policy,immigration,safety,social and cultural,social programs",1,1,0,0,1,0,1,0,0,1,1,1,0,1,0,1,1,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,economic,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, military, social programs,foreign policy","foreign policy,military,social programs",1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0
+military,"foreign policy,military,safety,social and cultural",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,none,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic",economic,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+economic,environment,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+military,military,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+" social and cultural,social programs",economic,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+military,military,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,none,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, social and cultural,social programs","economic,environment,immigration,safety,social and cultural,social programs",1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,1,1
+" economic,social and cultural","economic,safety,social and cultural",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+governance,safety,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+social programs,"social and cultural,social programs",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+none,social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" governance, social and cultural,social programs","economic,environment,foreign policy,social and cultural,social programs",0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,"economic,social programs",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" economic,social programs",economic,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,environment,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic","economic,social and cultural,social programs",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,"economic,environment",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance,social programs",social programs,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+" governance,social programs","economic,social programs",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+social programs,"economic,foreign policy,governance,social programs",0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0
+governance,none,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+" social programs,economic","economic,governance,social and cultural,social programs",1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1
+social and cultural,"economic,social and cultural,social programs",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1
+social programs,"economic,social programs",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+governance,economic,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+economic,social programs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,safety,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+economic,economic,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+" environmental,economic","economic,environment,foreign policy,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,foreign policy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"foreign policy,governance,military,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"foreign policy,safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,environment","economic,environment,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" environment,economic","economic,environment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" environmental,economic","economic,environment,governance,safety,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social program,social and cultural","foreign policy,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"foreign policy,military,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"governance,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, social and cultural,safety","governance,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"safety,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,safety","economic,safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,safety","safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance,economic",economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, immigration,social and cultural","economic,immigration,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,"environment,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,economic","economic,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,economic","economic,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,environment","economic,environment,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,environment","environment,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,"military,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,foreign policy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,"economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,"economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural, social programs,economic","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic","economic,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,economic","economic,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,"foreign policy,governance,immigration,safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"economic,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,"safety,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+environment,safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,safety,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+military,"economic,foreign policy,military,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance,foreign policy","foreign policy,governance,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+environmental,"economic,environment,foreign policy,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,"economic,safety,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" environment,social programs","economic,environment,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, governance, social and cultural,social programs","economic,environment,safety,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,social programs","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance, social programs,social and cultural","immigration,safety,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, governance,social programs",social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance,immigration","foreign policy,immigration,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,immigration","economic,foreign policy,governance,immigration,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" safety, social and cultural,immigration","environment,immigration,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+safety,safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,governance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,social and cultural,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social and cultural,governance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic, governance, social programs,social and cultural","governance,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,social and cultural","safety,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural,governance","economic,social and cultural",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" safety, social programs,social and cultural",social programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,environment","economic,environment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,environment","economic,environment,foreign policy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+social programs,"environment,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" economic,environment","economic,environment,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+economic,economic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance,safety",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social and cultural, social programs,economic","economic,social and cultural,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" social programs,economic","economic,social programs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+none,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+" governance,foreign policy","economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+governance,"economic,governance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
