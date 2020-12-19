@@ -1,5 +1,5 @@
 # Topic-Work
-Author: Wenzhe Yang, Shloak Gupta, Ania Korsunska, Jennifer Stromer-Galley
+Author: Wenzhe Yang, Shloak Gupta, Jennifer Stromer-Galley, Ania Korsunska
 
 The scripts of  topic work, including the train and testing dataset, scripts of lexicon developing and tagging. 
 The vailidataion data is in the file named "The Dataset", thel exicon version and its coding results 
